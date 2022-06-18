@@ -35,6 +35,41 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		083144CD285D550100BC415B /* Details */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Details;
+			sourceTree = "<group>";
+		};
+		083144CE285D550600BC415B /* Home */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		083144CF285D550C00BC415B /* Favorites */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Favorites;
+			sourceTree = "<group>";
+		};
+		083144D0285D551A00BC415B /* Logo */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Logo;
+			sourceTree = "<group>";
+		};
+		083144D1285D553D00BC415B /* AddNew */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = AddNew;
+			sourceTree = "<group>";
+		};
 		08B7424B285D4047009870CD = {
 			isa = PBXGroup;
 			children = (
@@ -54,6 +89,11 @@
 		08B74256285D4047009870CD /* UseAcademyFinalProject */ = {
 			isa = PBXGroup;
 			children = (
+				083144D1285D553D00BC415B /* AddNew */,
+				083144D0285D551A00BC415B /* Logo */,
+				083144CF285D550C00BC415B /* Favorites */,
+				083144CE285D550600BC415B /* Home */,
+				083144CD285D550100BC415B /* Details */,
 				4CBC37A4285D48770072AA6C /* TabBar */,
 				08B74257285D4047009870CD /* AppDelegate.swift */,
 				08B74260285D404A009870CD /* Assets.xcassets */,
